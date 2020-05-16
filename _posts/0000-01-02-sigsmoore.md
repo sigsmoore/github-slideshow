@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My text is right here. 👋
+Yow! Legally-imposed CULTURE-reduction is CABBAGE-BRAINED! 🤔
 Use the left arrow to go back!
